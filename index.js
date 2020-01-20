@@ -1,2 +1,5 @@
 // Write your code here!
-let element=document.createelement('div');
+let element=document.createElement('div');
+document.body.appendChild(element);
+let ul=document.createElement('ul');
+
