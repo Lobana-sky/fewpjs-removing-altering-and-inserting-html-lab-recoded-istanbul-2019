@@ -9,3 +9,7 @@ for(let i=0;i<3;i++)
   ul.appendChild(li);
 }
 element.appendChild(ul);
+
+
+let main=document.querySelectorById('main');
+main.remove();
