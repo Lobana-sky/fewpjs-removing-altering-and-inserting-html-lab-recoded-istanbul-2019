@@ -13,3 +13,5 @@ element.appendChild(ul);
 
 let min=document.getElementById('main');
 min.remove();
+
+
