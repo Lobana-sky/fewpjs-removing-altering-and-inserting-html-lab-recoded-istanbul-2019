@@ -19,3 +19,4 @@ min.remove();
 let newHeader=document.createElement('h1');
 newHeader.setAttribute('id','victory');
 
+newHeader.innerHTML='Lobana is the champion';
