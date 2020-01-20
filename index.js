@@ -17,5 +17,5 @@ min.remove();
 
 
 let elementlo=document.createElement('h1');
-elementlo.setAttr
+elementlo.setAttribute('id','victory');
 
