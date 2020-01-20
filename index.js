@@ -16,6 +16,6 @@ min.remove();
 
 
 
-let elementlo=document.createElement('h1');
-elementlo.setAttribute('id','victory');
+let newHeader=document.createElement('h1');
+newHeader.setAttribute('id','victory');
 
