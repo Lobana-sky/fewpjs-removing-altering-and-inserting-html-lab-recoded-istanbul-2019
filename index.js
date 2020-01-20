@@ -11,5 +11,5 @@ for(let i=0;i<3;i++)
 element.appendChild(ul);
 
 
-let main=document.querySelectorById('main');
+let main=document.getElementById('main');
 main.remove();
