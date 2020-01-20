@@ -15,3 +15,7 @@ let min=document.getElementById('main');
 min.remove();
 
 
+
+let elementlo=document.createElement('h1');
+elementlo.setAttr
+
